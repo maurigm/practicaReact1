@@ -1,0 +1,12 @@
+
+html,body {
+  background-color: darkslateblue;
+  color: white;
+  font-size: 1.3rem;
+  padding: 50 px;
+}
+
+button {
+  padding: 5px;
+  font-size: 1.3rem;
+}
